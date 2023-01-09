@@ -1,4 +1,12 @@
 ### Hi there 👋
+<h3 align="center">
+  Hey! My name is Cici, I am a
+</h3>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&size=25&color=rgb(17,17,17)&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Software+Development+Engineer" alt="Typing SVG" /></a>
+<p>
+
 
 <!--
 **cici1819/cici1819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
