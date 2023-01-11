@@ -51,4 +51,4 @@
 ![Cici's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=cici1819&theme=omni&hide_border=false)<br/>
 
 ## Let's Get Connected!
-<a href="linkedin.com/in/cici-cheng-87386a259/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/cici-cheng-87386a259/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
