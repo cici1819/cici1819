@@ -15,7 +15,7 @@
 <p>
 
 - 🔭 I’m currently working on polishing my projects
-- 🌱 I’m currently learning leetcode. 
+- 🌱 I’m currently learning leetCode. 
 
 ### My Projects
 * [Asanc - asana clone](https://cc-asanc.onrender.com/)
