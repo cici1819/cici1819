@@ -45,10 +45,10 @@
 
 ------- 
  
-![Cici's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cici1819&theme=omni&custom_title=Languages&langs_count=4)
+<!-- ![Cici's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cici1819&theme=omni&custom_title=Languages&langs_count=4)
 ![Cici's GitHub stats](https://github-readme-stats.vercel.app/api?username=cici1819&count_private=true&theme=omni&custom_title=Stats&hide=contribs&line_height=40)
 </br>
-![Cici's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=cici1819&theme=omni&hide_border=false)<br/>
+![Cici's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=cici1819&theme=omni&hide_border=false)<br/> -->
 
 ## Let's Get Connected!
 <a href="https://www.linkedin.com/in/cici-cheng-87386a259/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
