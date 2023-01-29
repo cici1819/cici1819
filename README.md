@@ -15,10 +15,10 @@
 <p>
 
 - 🔭 I’m currently working on polishing my projects
-- 🌱 I’m currently learning leetCode. 
+- 🌱 I’m currently learning DS&A. 
 
 ### My Projects
-* [Asanc - asana clone](https://cc-asanc.onrender.com/)
+* [Asanc - Asana clone](https://cc-asanc.onrender.com/)
 * [Eriscord - Discord clone](https://eriscord-aa.onrender.com/) 
 * [Aircnc - Airbnb clone](https://cici-airbnb.herokuapp.com/)
 
