@@ -14,8 +14,6 @@
     I have been working as a Technical Support Engineer for about 3 years, now I'm looking forward to embarking on the next major chapter in my life. I am passionate about solving challenging problems and learning new skills! 
 <p>
 
-- 🔭 I’m currently working on polishing my projects.
-- 🌱 I’m currently learning DS&A. 
 
 ### My Projects
 * [Asanc - Asana clone](https://cc-asanc.onrender.com/)
