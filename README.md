@@ -17,7 +17,7 @@
 
 ### My Projects
 * [Asanc - Asana clone](https://cc-asanc.onrender.com/)
-* [Eriscord - Discord clone](https://eriscord-aa.onrender.com/) 
+* [Eriscord - Discord clone](https://eriscord-9rrs.onrender.com/) 
 * [Aircnc - Airbnb clone](https://cici-airbnb.herokuapp.com/)
 
 -------
